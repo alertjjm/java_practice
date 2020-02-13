@@ -1,0 +1,2 @@
+public class javamain1 {
+}
