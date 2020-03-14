@@ -10,7 +10,7 @@ import javax.persistence.*;
 @Getter
 @Setter
 @Entity
-@Table(name="tbl_master")
+@Table(name="tbl_member")
 @ToString
 public class Member extends AbstractEntityModel{
     @Id
